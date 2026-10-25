@@ -1,0 +1,12 @@
+# Inferred from source imports. The original project did not include a lock file.
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langgraph
+pyyaml
+openai
+pypdf
+dashscope

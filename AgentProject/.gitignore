@@ -1,0 +1,29 @@
+# Python 字节码与缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境（按需取消注释）
+# venv/
+# .venv/
+# env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志与本地数据（若不想提交）
+logs/
+*.log
+
+# Chroma 向量库持久化目录
+chroma_db/
+
+# 知识库文件 MD5 去重记录
+md5.text
+
+# Markdown 文档（如简历/说明等本地文档）
+*.md
